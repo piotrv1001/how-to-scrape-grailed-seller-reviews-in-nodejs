@@ -2,6 +2,10 @@
 
 Use the [Grailed Reviews Scraper](https://apify.com/piotrv1001/grailed-reviews-scraper) through Apify's Node.js client. This example calls an existing Actor; it does not implement a scraper.
 
+![Grailed review dataset with seller, item, and sold-price columns](./grailed_reviews_results.png)
+
+The screenshot shows a separate `TheArchiveAU` run; the sample code below starts with `graymatter_`.
+
 ## What this example does
 
 - Passes a small input to the Actor
