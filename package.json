@@ -1,0 +1,13 @@
+{
+  "name": "how-to-scrape-grailed-seller-reviews-in-nodejs",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "apify-client": "^2.20.0",
+    "dotenv": "^16.4.5"
+  }
+}

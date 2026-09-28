@@ -1,0 +1,26 @@
+[
+  {
+    "recordType": "seller-profile",
+    "username": "example_seller",
+    "ratingAverage": 4.9,
+    "ratingCount": 125,
+    "soldCount": 310,
+    "profileUrl": "https://www.grailed.com/example_seller"
+  },
+  {
+    "recordType": "review",
+    "sellerUsername": "example_seller",
+    "rating": 5,
+    "note": "Item matched the description.",
+    "tags": [
+      "item-as-described",
+      "fast-shipper"
+    ],
+    "itemDesigners": [
+      "Example Brand"
+    ],
+    "itemSize": "US M",
+    "itemListPrice": 150,
+    "itemSoldPrice": 135
+  }
+]
